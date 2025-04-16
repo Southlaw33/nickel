@@ -19,3 +19,7 @@ const rootLayout = (props: PropsWithChildren) => {
   );
 };
 export default rootLayout;
+
+// <Box style={{border:"1px dotted #232323"}}>
+          
+// </Box>
